@@ -275,3 +275,9 @@ version(s), and exceptions or additional permissions here}."
   look for such a notice.
 
   You may add additional accurate notices of copyright ownership.
+
+Modifications by Austin Conder:
+- Modified bookstore demo starter to an application for managing mendix projects.
+- 2024-09-22
+
+These modifications are also licensed under the Eclipse Public License v2.0.
